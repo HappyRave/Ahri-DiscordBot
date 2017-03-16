@@ -2,9 +2,11 @@
   "name": "ahri-discordbot",
   "version": "1.0.0",
   "description": "Home made, custom designed bot for a small channel of League of Legends enthusiasts.",
-  "main": "Ahri-main.js",
+  "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.0.0"
+    "discord.js": "^11.0.0",
+    "erlpack": "^0.1.2",
+    "node-opus": "^0.2.4"
   },
   "devDependencies": {},
   "scripts": {
