@@ -1,0 +1,23 @@
+{
+  "name": "ahri-discordbot",
+  "version": "1.0.0",
+  "description": "Home made, custom designed bot for a small channel of League of Legends enthusiasts.",
+  "main": "Ahri-main.js",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappyRave/Ahri-DiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HappyRave/Ahri-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/HappyRave/Ahri-DiscordBot#readme"
+}
